@@ -1,0 +1,8 @@
+{
+  "name": "jsl-template",
+  "version": "0.0.5",
+  "description": "React Native Template",
+  "repository": "https://github.com/JereLima/jsl-rn-template",
+  "author": "Jeremias Santos Lima<jeremiaslimag12@gmail.com>",
+  "license": "MIT"
+}
